@@ -1,0 +1,6 @@
+baseURL = 'https://akinas.com/'
+languageCode = 'en-us'
+title = 'Akinas'
+
+theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
+
